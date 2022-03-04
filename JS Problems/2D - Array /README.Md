@@ -1,1 +1,6 @@
-# 2d - Array JS Problem
+# 2D - Array JS Problem
+
+In the 2d-array assignment you are tasked with finding the greatest hourglass sum in the 6x6 any 6x6 array.
+
+Here the Hackerank Link
+[2D - Array](https://www.hackerrank.com/challenges/2d-array/problem)
