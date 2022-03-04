@@ -1,0 +1,5 @@
+#Sqares of Sorted Array
+
+Given an integer array nums sorted in non-decreasing order, return an array of the squares of each number sorted in non-decreasing order.
+
+[Squares of Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
