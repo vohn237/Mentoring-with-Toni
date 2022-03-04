@@ -11,7 +11,7 @@ var sortedSquares = function (nums) {
   let rightIndx = nums.length - 1;
   let resultIndx = nums.length - 1;
 
-  while (leftIndx < rightIndx) {
+  while (leftIndx <= rightIndx) {
     let leftVal = Math.pow(nums[leftIndx], 2);
     let rightVal = Math.pow(nums[rightIndx], 2);
 
